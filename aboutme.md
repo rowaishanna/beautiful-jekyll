@@ -26,5 +26,5 @@ I am blessed with 2 young children and the most supporting wife and best friend.
 
 
 [1]: https://youtu.be/BSBTCOEdLkA
-[2]: https://www.iconexperience.com/_img/v_collection_png/256x256/shadow/heart.png
+[2]: https://i.ya-webdesign.com/images/svg-transparency-gif-6.gif
 [3]: https://facebook.com/7lampsphotography
