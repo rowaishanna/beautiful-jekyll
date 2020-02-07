@@ -4,7 +4,7 @@
 title: Rowais Hanna
 
 # Short description of your site
-description: Data Scientist
+description: Aspiring Data Scientist
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,10 +21,7 @@ description: Data Scientist
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Author's home: "www.linkedin.com/in/rowaishanna"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -69,11 +66,11 @@ author:
 social-network-links:
   rss: true
   email: "rowaishanna@gmail.com"
-  facebook: 
+  # facebook: 
   github: rowaishanna
-  twitter: daattali
+  twitter: rowaishanna
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: rowaishanna
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
